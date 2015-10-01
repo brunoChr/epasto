@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Prat d'Albis</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Zone</name>
+			<Placemark>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<name>Zone 1</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Pâturage au Prat d'albis]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>1.5511322,42.93512379999999,0.0 1.5365845,42.9134716,0.0 1.5541363,42.8972833,0.0 1.5889834999999999,42.900049800000005,0.0 1.6070080000000002,42.903885,0.0 1.6047763999999998,42.922492,0.0 1.6004848999999999,42.931479,0.0 1.591816,42.935500899999994,0.0 1.5732764999999997,42.9390198,0.0 1.5511322,42.93512379999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='poly-000000-1-76'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="HelloKML.java|UserModel.java|popupModifyUser.java|LoginEvent.java|LoginEventForget.java|AppliEvent.java|Maps/Sample1.java|Maps/Sample2.java|Maps/Sample3.java|Maps/Sample4.java|Maps/Sample5.java|Maps/Sample6.java" kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/HelloKML/JavaAPIforKml-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/jaxb/activation.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/jaxb/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/jaxb/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/jaxb/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/jaxb/jsr173_1.0_api.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/jxmapviewer2-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/swing-worker.jar/swing-worker.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/swingx.jar/swingx.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/swingx-bean.jar/swingx-bean.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/swingx-ws-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/b.christol/Google Drive/EclipseWorkspace/lib/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

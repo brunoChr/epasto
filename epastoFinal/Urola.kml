@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Urola</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<name>Zone</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-2.3583699,43.185935,0.0 -2.3630049999999994,43.184026,0.0 -2.3640349,43.1807402,0.0 -2.3575974,43.1777672,0.0 -2.3519325000000006,43.1778925,0.0 -2.3470399,43.1803334,0.0 -2.3468683,43.184276399999995,0.0 -2.352619,43.186201,0.0 -2.3583699,43.185935,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='poly-000000-1-76'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

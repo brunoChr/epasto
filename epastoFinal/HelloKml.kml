@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+    <Placemark>
+		<styleUrl>#poly-000000-1-76</styleUrl>
+        <name>Java User Group Hessen - JUGH!</name>
+        <visibility>true</visibility>
+        <open>false</open>
+				<description><![CDATA[Pâturage au Prat d'albis]]></description>
+        <styleUrl>styles.kml#jugh_style</styleUrl>
+        <Point>
+            <extrude>false</extrude>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>9.444652669565212,51.30473589438118</coordinates>
+        </Point>
+    </Placemark>
+</kml>
